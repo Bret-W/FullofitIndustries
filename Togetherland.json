@@ -6,9 +6,9 @@
     "image": "https://ibb.co/82bjkWz",
     "holons" : 
     [
-    { "id": "http://github.com/robertovalenti/personal/holon"},
-    { "id": "http://github.com/Bret-W/FullofitIndustries/Together Temple"},
-    { "id": "http://github.com/Bret-W/FullofitIndustries/Coasys"},
+    { "id": "http://github.com/robertovalenti/personal/holon"},"label":"Liminal Village"}
+    { "id": "http://github.com/Bret-W/FullofitIndustries/Together Temple","label":"Together Temple"}
+    { "id": "http://github.com/Bret-W/FullofitIndustries/Coasys","label":"Coasysl"}
     { "id": "http://github.com/Bret-W/FullofitIndustries/Compost","label":"Compost Capital"}
     ]
 }
