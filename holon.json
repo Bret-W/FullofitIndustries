@@ -1,0 +1,15 @@
+{
+    "version": "0.1",
+    "name": "Fullofit Industries",
+    "quote": "Put It On Our Trimtab \n There’s A Genius Born Every Minute.",
+    "quoteauthor": "R. Bretminster Fullofit",
+    "image": "https://ibb.co/82bjkWz",
+    "holons" : 
+    [
+    { "id": "http://github.com/Bret-W/FullofitIndustries/Togetherland"},
+    { "id": "http://github.com/Bret-W/FullofitIndustries/TogetherUFO"},
+    { "id": "http://github.com/Bret-W/FullofitIndustries/Subsidiaries"},
+    { "id": "http://github.com/Bret-W/FullofitIndustries/Fatekeepers"},
+    { "id": "http://github.com/Bret-W/FullofitIndustries/mywallet"}
+    ]
+}
