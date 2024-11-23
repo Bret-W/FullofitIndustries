@@ -1,0 +1,14 @@
+{
+    "version": "0.1",
+    "name": "Togetherland",
+    "quote": "Put It On Our Trimtab \n There’s A Genius Born Every Minute.",
+    "quoteauthor": "R. Bretminster Fullofit",
+    "image": "https://ibb.co/82bjkWz",
+    "holons" : 
+    [
+    { "id": "http://github.com/robertovalenti/personal/holon"},
+    { "id": "http://github.com/Bret-W/FullofitIndustries/Together Temple"},
+    { "id": "http://github.com/Bret-W/FullofitIndustries/Coasys"},
+    { "id": "http://github.com/Bret-W/FullofitIndustries/Compost","label":"Compost Capital"}
+    ]
+}
