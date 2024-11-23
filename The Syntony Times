@@ -1,0 +1,15 @@
+{
+    "version": "0.1",
+    "name": "The Syntony Times",
+    "quote": "Put It On Our Trimtab \n There’s A Genius Born Every Minute.",
+    "quoteauthor": "R. Bretminster Fullofit",
+    "image": "https://ibb.co/82bjkWz",
+    "holons" : 
+    [
+    { "id": "http://github.com/Bret-W/FullofitIndustries/Noo Lexicon"},
+    { "id": "http://github.com/Bret-W/FullofitIndustries/Togetherland"},
+    { "id": "http://github.com/Bret-W/FullofitIndustries/A Series of Fortunately Synchronistic Events"},
+    { "id": "http://github.com/Bret-W/FullofitIndustries/Radical Philanthropy"},
+    { "id": "http://github.com/Bret-W/FullofitIndustries/Mental Health Reformation"},
+    ]
+}
